@@ -1,0 +1,5 @@
+.idea
+venv
+database.sqlite3_eng
+pywhatkit_dbs.txt
+test.py

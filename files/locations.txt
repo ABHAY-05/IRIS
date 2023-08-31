@@ -1,0 +1,4 @@
+C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe
+C:\\WINDOWS\\system32\\notepad.exe
+C:\\Program Files (x86)\\Epic Games\\Launcher\\Portal\\Binaries\\Win32\\EpicGamesLauncher.exe
+C:\\Users\\ABHAY VERMA\\AppData\\Roaming\\Zoom\\bin\\Zoom.exe
