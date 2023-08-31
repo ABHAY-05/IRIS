@@ -8,7 +8,6 @@ IRIS is a virtual assistant developed in Python, leveraging Machine Learning and
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
